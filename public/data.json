@@ -1,0 +1,47 @@
+[
+    {
+        "categoria":"equipo",
+        "title":"celular",
+        "factor":1
+    },
+    {
+        "categoria":"equipo",
+        "title":"notebook",
+        "factor":1.2
+    },
+    {
+        "categoria":"equipo",
+        "title":"cámara fotográfica",
+        "factor":1.2
+    },
+    {
+        "categoria":"equipo",
+        "title":"consola de videojuego",
+        "factor":0.75
+    },
+    {
+        "categoria":"equipo",
+        "title":"instrumento de música",
+        "factor":0.60
+    },
+    {
+        "categoria":"seguro",
+        "title":"hurto",
+        "factor":4
+    },
+    {
+        "categoria":"seguro",
+        "title":"robo",
+        "factor":3
+    },
+    {
+        "categoria":"seguro",
+        "title":"perdida",
+        "factor":2
+    },
+    {
+        "categoria":"seguro",
+        "title":"rotura",
+        "factor":1
+    }
+]
